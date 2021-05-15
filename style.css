@@ -1,0 +1,17 @@
+.sm {
+
+    background-image: url("https://lepser.ru/wp-content/uploads/2011/10/Minimalism-in-Photography-490-14.jpg");
+    background-size: 100%;
+
+}
+
+body {
+    font-family: 'Abel', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
+}
+
+.title {
+    font-size: large;
+}
+
+/*For About*/
